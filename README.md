@@ -165,10 +165,6 @@ This README demonstrates various Markdown features:
 
 Contributions are welcome! Feel free to add more snippets, improve existing code, or fix bugs. Please follow the existing code style and add documentation.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ---
 
 **Last Updated:** August 2026 | **Maintained by:** [satvik-reddyg](https://github.com/satvik-reddyg)
